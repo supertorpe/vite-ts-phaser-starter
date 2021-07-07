@@ -1,4 +1,4 @@
-# vite-phaser-starter
+# vite-ts-phaser-starter
 
 This repo contains a typescript phaser project template using vite.
 
@@ -16,7 +16,7 @@ npm install
 
 `npm run build` builds the application to `dist`, generating two bundles for differential serving.
 
-`npm run serve` launches a server over the previously build.
+`npm run serve` launches a server over the previous build.
 
 ## License
 
